@@ -6,6 +6,7 @@ This program utilizes SQLite commands to parse through a dataset.
 
 ## Loading Data:
 -Utilizing the sqlite3.connect() command, open the 'petsdb' dataset
+
 -To confirm that the connection was sucessful use the is_open() function
 
 ## Code:
